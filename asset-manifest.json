@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-invaders/static/css/main.fb59a1cd.css",
+    "main.js": "/space-invaders/static/js/main.ec5d5fa3.js",
+    "static/js/453.e2c8db70.chunk.js": "/space-invaders/static/js/453.e2c8db70.chunk.js",
+    "index.html": "/space-invaders/index.html",
+    "main.fb59a1cd.css.map": "/space-invaders/static/css/main.fb59a1cd.css.map",
+    "main.ec5d5fa3.js.map": "/space-invaders/static/js/main.ec5d5fa3.js.map",
+    "453.e2c8db70.chunk.js.map": "/space-invaders/static/js/453.e2c8db70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb59a1cd.css",
+    "static/js/main.ec5d5fa3.js"
+  ]
+}
